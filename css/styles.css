@@ -1,0 +1,20 @@
+.topbar {
+  background-color: yellow;
+  color: black;
+  padding: 20px;
+  border: black;
+  border-width: 10px;
+  text-align: center;
+  font: 100px Georgia, sans-serif;
+}
+
+.sidebar {
+  float: left;
+  width: 200px;
+  font: 20px Georgia, sans-serif;
+}
+
+.image {
+  float: left;
+  width: 200px;
+}
